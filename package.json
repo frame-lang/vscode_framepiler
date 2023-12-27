@@ -8,7 +8,8 @@
     "framec_bg.wasm",
     "framec.js",
     "framec_bg.js",
-    "framec.d.ts"
+    "framec.d.ts",
+    "framec_bg.wasm.d.ts"
   ],
   "module": "framec.js",
   "types": "framec.d.ts",

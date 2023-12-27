@@ -7,14 +7,8 @@
   "files": [
     "framec_bg.wasm",
     "framec.js",
-    "framec_bg.js",
-    "framec.d.ts",
-    "framec_bg.wasm.d.ts"
+    "framec.d.ts"
   ],
-  "module": "framec.js",
-  "types": "framec.d.ts",
-  "sideEffects": [
-    "./framec.js",
-    "./snippets/*"
-  ]
+  "main": "framec.js",
+  "types": "framec.d.ts"
 }
